@@ -22,6 +22,23 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
+## USECASE DIAGRAM:
+![image](https://github.com/user-attachments/assets/d4c4d608-f532-4515-a091-c037369c4323)
+
+## CLASS DIAGRAM:
+![image](https://github.com/user-attachments/assets/aa951aba-0457-4402-9055-2adf3d0dd0c2)
+
+## SEQUENCE DIAGRAM:
+![image](https://github.com/user-attachments/assets/e490ba79-c6de-47e8-99e1-1ea49527006f)
+
+## ACTIVITY DIAGRAM:
+![image](https://github.com/user-attachments/assets/fa5d2214-bc74-45ad-a0e7-09ca4c35b4a9)
+
+## COMMUNICATION DIAGRAM:
+![image](https://github.com/user-attachments/assets/40db9652-a435-4264-8f0c-1d50903593a8)
+
+## PACKAGE DIAGRAM:
+![image](https://github.com/user-attachments/assets/dc259691-f60d-4823-b060-1bf13bb56a93)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
